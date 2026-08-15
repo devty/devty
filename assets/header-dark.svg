@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="176" viewBox="0 0 880 176" role="img" aria-label="Tyler Singletary — Music, Code, ML and AI">
+<defs>
+<linearGradient id="g" gradientUnits="userSpaceOnUse" x1="502" y1="144" x2="878" y2="26"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#F0885B"/></linearGradient>
+<linearGradient id="r" gradientUnits="userSpaceOnUse" x1="2" y1="0" x2="66" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#F0885B"/></linearGradient>
+</defs>
+<rect width="880" height="176" rx="10" fill="#0d1117"/>
+<rect x="502" y="26" width="376" height="8" rx="2" fill="#161b22"/>
+<rect x="502" y="36" width="376" height="8" rx="2" fill="#161b22"/>
+<rect x="502" y="46" width="376" height="8" rx="2" fill="#161b22"/>
+<rect x="502" y="56" width="376" height="8" rx="2" fill="#161b22"/>
+<rect x="502" y="66" width="376" height="8" rx="2" fill="#161b22"/>
+<rect x="502" y="76" width="376" height="8" rx="2" fill="#161b22"/>
+<rect x="502" y="86" width="376" height="8" rx="2" fill="#161b22"/>
+<rect x="502" y="96" width="376" height="8" rx="2" fill="#161b22"/>
+<rect x="502" y="106" width="376" height="8" rx="2" fill="#161b22"/>
+<rect x="502" y="116" width="376" height="8" rx="2" fill="#161b22"/>
+<rect x="502" y="126" width="376" height="8" rx="2" fill="#161b22"/>
+<rect x="502" y="136" width="376" height="8" rx="2" fill="#161b22"/>
+<rect x="502.0" y="106" width="44.0" height="8" rx="2" fill="url(#g)" opacity="0.724"/>
+<rect x="549.0" y="86" width="28.3" height="8" rx="2" fill="url(#g)" opacity="0.793"/>
+<rect x="580.3" y="96" width="44.0" height="8" rx="2" fill="url(#g)" opacity="0.758"/>
+<rect x="627.3" y="66" width="28.3" height="8" rx="2" fill="url(#g)" opacity="0.862"/>
+<rect x="658.7" y="56" width="59.7" height="8" rx="2" fill="url(#g)" opacity="0.896"/>
+<rect x="674.3" y="76" width="28.3" height="8" rx="2" fill="url(#g)" opacity="0.827"/>
+<rect x="721.3" y="46" width="44.0" height="8" rx="2" fill="url(#g)" opacity="0.931"/>
+<rect x="737.0" y="66" width="28.3" height="8" rx="2" fill="url(#g)" opacity="0.862"/>
+<rect x="768.3" y="36" width="28.3" height="8" rx="2" fill="url(#g)" opacity="0.965"/>
+<rect x="784.0" y="56" width="44.0" height="8" rx="2" fill="url(#g)" opacity="0.896"/>
+<rect x="815.3" y="26" width="28.3" height="8" rx="2" fill="url(#g)" opacity="1.0"/>
+<rect x="831.0" y="46" width="44.0" height="8" rx="2" fill="url(#g)" opacity="0.931"/>
+<rect x="533.3" y="126" width="28.3" height="8" rx="2" fill="url(#g)" opacity="0.655"/>
+<rect x="611.7" y="116" width="28.3" height="8" rx="2" fill="url(#g)" opacity="0.689"/>
+<rect x="705.7" y="86" width="28.3" height="8" rx="2" fill="url(#g)" opacity="0.793"/>
+<rect x="799.7" y="76" width="44.0" height="8" rx="2" fill="url(#g)" opacity="0.827"/>
+<rect x="2" y="124" width="64" height="3" rx="1.5" fill="url(#r)"/>
+<text x="2" y="62" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-0.8" fill="#e6edf3">Tyler Singletary</text>
+<text x="2" y="94" font-family="ui-monospace, SFMono-Regular, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="16" fill="#9198a1">Music &#183; Code &#183; ML and AI</text>
+<text x="2" y="150" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="13.5" fill="#7d8590">Brooklyn, NY &#183; building under @orchestrately</text>
+</svg>

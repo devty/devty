@@ -1,0 +1,3 @@
+# gstack browse daemon runtime state — contains a local auth token.
+# Never commit: this repository is public.
+.gstack/
