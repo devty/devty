@@ -55,16 +55,16 @@ note repeat the full gradient and they all render the same flat mauve.
 
 ## Facts that go stale
 
-Star counts in the README are **hardcoded snapshots taken 2026-08-15** (`garrytan/gbrain` 28,465 →
-"28.5k"; `santifer/career-ops` 63,892 → "63.9k"). Refresh them when editing nearby:
+Star counts in the README are **hardcoded snapshots taken 2026-10-01** (`garrytan/gbrain` 30,478 →
+"30.5k"; `career-ops-hq/career-ops` 73,222 → "73.2k"). Refresh them when editing nearby:
 
 ```bash
 gh api repos/garrytan/gbrain --jq .stargazers_count
-gh api repos/santifer/career-ops --jq .stargazers_count
+gh api repos/career-ops-hq/career-ops --jq .stargazers_count
 ```
 
-The open PR `santifer/career-ops#824` is described as open — re-check its state before publishing:
+The open PR `career-ops-hq/career-ops#824` (repo moved from `santifer/`) is described as open — re-check its state before publishing:
 
 ```bash
-gh api repos/santifer/career-ops/pulls/824 --jq '{state, merged}'
+gh api repos/career-ops-hq/career-ops/pulls/824 --jq '{state, merged}'
 ```
